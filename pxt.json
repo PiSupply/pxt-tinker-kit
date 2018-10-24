@@ -1,6 +1,6 @@
 {
     "name": "TinkerKit",
-    "version": "1.0.5",
+    "version": "1.0.4",
     "description": "Pi Supply package for the Tinker Kit",
     "license": "MIT",
     "dependencies": {
@@ -15,5 +15,5 @@
         "tests.ts"
     ],
     "public": true,
-    "installedVersion": "github:pisuply/pxt-tinker-kit#v1.0.5"
+    "installedVersion": "github:pisupply/pxt-tinker-kit#v1.0.4"
 }
