@@ -14,5 +14,6 @@
     "testFiles": [
         "tests.ts"
     ],
-    "public": true
+    "public": true,
+    "installedVersion": "github:pisuply/pxt-tinker-kit#v1.0.4"
 }
