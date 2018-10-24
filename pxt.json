@@ -1,15 +1,15 @@
 {
-    "name": "Tinkercademy",
+    "name": "Tinker Kit",
     "version": "1.0.4",
-    "description": "Tinkercademy package for the tinker:kit",
+    "description": "Pi Supply package for the Tinker Kit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "OLED": "github:Tinkertanker/pxt-oled-ssd1306"
+        "OLED": "github:PiSupply/pxt-oled-ssd1306"
     },
     "files": [
         "README.md",
-        "tinkercademy.ts"
+        "pisupply.ts"
     ],
     "testFiles": [
         "tests.ts"
